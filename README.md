@@ -1,5 +1,5 @@
 
-# crop yield production using machine learning
+# CROP YIELD PREDICTION USING MACHINE LEARNING
 
 Predicting crop yields can be a complex task that involves various factors like weather conditions, soil quality, and more. While a simple linear regression, as shown in the previous response, is a basic approach, more advanced machine learning techniques can yield better results. 
 
